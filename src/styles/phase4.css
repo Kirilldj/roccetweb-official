@@ -1,0 +1,1 @@
+#cfb h3,#cfb .chip,#cfb label,#cfb pre{animation:cin .45s ease both}@keyframes cin{from{opacity:0;transform:translateY(12px)}}.btn:disabled{opacity:.4;cursor:not-allowed}
